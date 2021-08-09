@@ -1,0 +1,8 @@
+ru\kim\soap\GetPersonResponse.class
+ru\vlad\kim\soap\PersonEndPoint.class
+ru\kim\soap\ObjectFactory.class
+ru\kim\soap\package-info.class
+ru\vlad\kim\soap\WebServiceConfig.class
+ru\vlad\kim\soap\PersonService.class
+ru\vlad\kim\soap\SoapApplication.class
+ru\kim\soap\GetPersonRequest.class

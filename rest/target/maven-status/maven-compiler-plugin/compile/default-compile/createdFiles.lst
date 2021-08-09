@@ -1,0 +1,6 @@
+ru\vlad\kim\rest\dao\PersonRepositoryImpl.class
+ru\vlad\kim\rest\dao\PersonRepository.class
+ru\vlad\kim\rest\controller\Controller.class
+ru\vlad\kim\rest\model\Person.class
+ru\vlad\kim\rest\RestApplication.class
+ru\vlad\kim\rest\service\PersonService.class
